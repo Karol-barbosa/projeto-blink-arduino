@@ -6,7 +6,10 @@
 
 No primeiro momento, explorei o código responsável por acionar um LED conectado ao Arduino. O código define qual pino será usado e alterna entre os estados “ligado” e “desligado” com um pequeno intervalo de tempo.
 
-[Imagem de demonstração](assets/imagem.png)
+Segue a imagem de demonstração:
+
+<img src="assets/imagem.jpeg" alt="Imagem de demonstração" width="400"/>
+
 
 [ Clique aqui para ver o vídeo de demonstração](assets/video.mp4)
 
