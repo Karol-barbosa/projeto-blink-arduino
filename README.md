@@ -32,7 +32,7 @@ Além do LED interno, adicionei um LED externo ao projeto para aprofundar o apre
 [ Clique aqui para ver o vídeo de demonstração](assets/video.mp4)
 
 
-## Parte 2 — Blink Externo
+## Parte 2
 
 Nesta etapa, foi realizada a simulação do circuito no TinkerCad.
 O circuito foi montado com um LED externo (OFF_BOARD), conectado ao pino digital 6 do Arduino, utilizando um resistor para limitar a corrente elétrica e proteger o LED.
