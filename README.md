@@ -4,15 +4,32 @@
 
 ## Parte 1 - LED
 
-No primeiro momento, explorei o código responsável por acionar um LED conectado ao Arduino. O código define qual pino será usado e alterna entre os estados “ligado” e “desligado” com um pequeno intervalo de tempo.
+No primeiro momento, o objetivo foi aprender a controlar o LED interno do Arduino, fazendo-o acender e apagar de forma contínua, criando um efeito de "luz piscando" (blink). Essa é a primeira etapa prática do estudo de programação com Arduino.
+
+### Componentes utilizados
+- Placa Arduino (ex: Arduino Uno)
+
+- Cabo USB para conexão com o computador
+
+- Computador com Arduino IDE instalada
 
 Segue a imagem de demonstração:
 
+### LED interno apagado
+<img src="assets/led_apagado.jpeg" alt="LED apagado" width="400"/>
+
+### LED interno aceso
+<img src="assets/led_aceso.jpeg" alt="LED aceso" width="400"/>
+
+[ Clique aqui para ver o vídeo de demonstração](assets/video2.mp4)
+
+Além do LED interno, adicionei um LED externo ao projeto para aprofundar o aprendizado sobre o controle de pinos digitais no Arduino. Com isso, além de controlar o LED interno da placa, agora também é possível acender e apagar um LED conectado externamente
+
+### LED externo
 <img src="assets/imagem.jpeg" alt="Imagem de demonstração" width="400"/>
 
 
 [ Clique aqui para ver o vídeo de demonstração](assets/video.mp4)
-
 
 
 ## Parte 2 — Blink Externo
