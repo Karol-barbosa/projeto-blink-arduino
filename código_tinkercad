@@ -1,0 +1,14 @@
+int led = 6; // cria uma variável chamada led e ela representa o número 6 do arduino
+
+void setup()// essa função roda quando o arduino é ligado, uma única vez 
+{
+  pinMode(led, OUTPUT); // o led vai ser usado como uma saída eletrica
+}
+
+void loop()// cria um cliclo infinito
+{
+  digitalWrite(led, HIGH); // acende o led
+  delay(1000); // conta um segundo
+  digitalWrite(led, LOW);// desliga o led
+  delay(1000);// conta mais um segundo
+}
