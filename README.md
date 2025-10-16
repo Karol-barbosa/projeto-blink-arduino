@@ -6,6 +6,12 @@
 
 No primeiro momento, explorei o código responsável por acionar um LED conectado ao Arduino. O código define qual pino será usado e alterna entre os estados “ligado” e “desligado” com um pequeno intervalo de tempo.
 
+[Imagem de demonstração](assets/imagem.png)
+
+[ Clique aqui para ver o vídeo de demonstração](assets/video.mp4)
+
+
+
 ## Parte 2 — Blink Externo
 
 Nesta etapa, foi realizada a simulação do circuito no TinkerCad.
