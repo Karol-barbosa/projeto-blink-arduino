@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/arduino.png" alt="Arduino" width="400">
+</p>
+
 ## Parte 1 - LED
 
 No primeiro momento, explorei o código responsável por acionar um LED conectado ao Arduino. O código define qual pino será usado e alterna entre os estados “ligado” e “desligado” com um pequeno intervalo de tempo.
@@ -6,6 +10,8 @@ No primeiro momento, explorei o código responsável por acionar um LED conectad
 
 Nesta etapa, foi realizada a simulação do circuito no TinkerCad.
 O circuito foi montado com um LED externo (OFF_BOARD), conectado ao pino digital 6 do Arduino, utilizando um resistor para limitar a corrente elétrica e proteger o LED.
+
+![Circuito Pisca-Pisca](assets/tick.png)
 
 ### Componentes utilizados
 Arduino Uno: microcontrolador responsável por enviar os sinais elétricos que acendem e apagam o LED conforme o código.
