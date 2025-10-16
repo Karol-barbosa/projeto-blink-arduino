@@ -4,10 +4,10 @@
 
 ## Parte 1 - LED
 
-No primeiro momento, o objetivo foi aprender a controlar o LED interno do Arduino, fazendo-o acender e apagar de forma contínua, criando um efeito de "luz piscando" (blink). Essa é a primeira etapa prática do estudo de programação com Arduino.
+No primeiro momento, o objetivo foi aprender a controlar o LED interno do Arduino, fazendo-o acender e apagar de forma contínua, criando um efeito de "luz piscando" (blink).
 
 ### Componentes utilizados
-- Placa Arduino (ex: Arduino Uno)
+- Arduino Uno
 
 - Cabo USB para conexão com o computador
 
